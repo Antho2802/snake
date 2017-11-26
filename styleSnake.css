@@ -1,0 +1,10 @@
+@font-face
+{
+	font-family: 'Titre'
+	scr: url('SnakeStitch.ttf');
+}
+
+h1
+{
+	font-family: 'Titre';
+}
