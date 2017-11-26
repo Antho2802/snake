@@ -1,7 +1,7 @@
 @font-face
 {
-	font-family: 'Titre'
-	scr: url('SnakeStitch.ttf');
+	font-family: 'Titre';
+	src: url('SnakeStitch.ttf');
 }
 
 h1
