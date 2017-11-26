@@ -1,10 +1,13 @@
 @font-face
 {
-	font-family: 'Titre'
-	scr: url('SnakeStitch.ttf');
+	font-family: 'Titre';
+	src: url('font/SnakeStitch.ttf');
 }
 
 h1
 {
 	font-family: 'Titre';
+	text-align: center;
+	font-size: 100px;
+	font-style: italic;
 }
